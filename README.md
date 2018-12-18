@@ -1,2 +1,2 @@
 # squeak-service
-Service for https://github.com/LuHaoPeng/squeak. Using Express.
+Service for [squeak](https://github.com/LuHaoPeng/squeak). Using [Express](https://github.com/expressjs/express).
